@@ -1,6 +1,6 @@
-# Bangladesh-Flug-OpenGL
-Drawing the national flag of Bangladesh
-Using OpenGL and C++
+# Home or House OpenGL Project
+Drawing the Home
+Using OpenGL in C
 
 Required Libraries
 OpenGL 4.2 (minimum)
@@ -11,4 +11,4 @@ On Windows using CodeBlocks
 
 ## Screenshot
 
-![](https://github.com/princ-imran/home-openGL-in-C/edit/master/Screenshot/Home.png)
+![](https://github.com/princ-imran/home-openGL-in-C/blob/master/Screenshot/Home.png)
