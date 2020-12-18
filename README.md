@@ -11,4 +11,4 @@ On Windows using CodeBlocks
 
 ## Screenshot
 
-![](https://github.com/princ-imran/Bangladesh-Flug-OpenGL/blob/master/Screenshot/BD%20Flug.png)
+![](https://github.com/princ-imran/home-openGL-in-C/edit/master/Screenshot/Home.png)
